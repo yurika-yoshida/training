@@ -346,7 +346,7 @@ public class Input {
 
 	public static void guide(String s) {
 
-		System.out.print(s + ">");
+		System.out.print("[" + s + "]>");
 		System.out.flush();
 	}
 }
